@@ -78,7 +78,7 @@ These dependencies are necessary to execute the code and reproduce the results p
 2. Navigate to the project directory.
 
 ```bash
-git clone gh repo clone sjarunvenkat/Consumer-Complaint-Text-Classification
+git clone <repository_url>
 cd Consumer-Complaint-Text-Classification
 ```
 
